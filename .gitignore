@@ -20,4 +20,5 @@
 
 # Node Modules #
 ######################
+.gitignore
 node_modules
